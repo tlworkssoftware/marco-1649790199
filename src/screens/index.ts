@@ -1,0 +1,13 @@
+export {default as Welcome} from './Welcome';
+export {default as Home} from './Home';
+export {default as History} from './History';
+export {default as NF} from './NF';
+export {default as FormNF} from './NF/Form';
+export {default as Coast} from './Coast';
+export {default as Settings} from './Setting';
+export {default as Company} from './Setting/screens/Company';
+export {default as FormCompany} from './Setting/screens/Company/Form';
+export {default as Category} from './Setting/screens/Category';
+export {default as FormCategory} from './Setting/screens/Category/Form';
+export {default as Setting} from './Setting/screens/Setting';
+export {default as Configs} from './Setting/screens/Configs';
